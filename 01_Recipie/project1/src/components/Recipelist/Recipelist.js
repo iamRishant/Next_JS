@@ -9,7 +9,7 @@ import {
 import Link from "next/link";
 
 export default function Recipelist({ recipes }) {
-  console.log(recipes);
+  // console.log(recipes);
   return (
     <div className="flex flex-col">
     <div className="flex items-center mt-10 justify-between px-20">
